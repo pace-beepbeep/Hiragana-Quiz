@@ -1,231 +1,93 @@
-/* General Body Styling */
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
 body {
-  background-color: #f1f5f9;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-  font-family: sans-serif;
-  margin: 0;
-  padding: 16px;
-  box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
-/* Quiz Container */
-#quiz-container {
-  background-color: white;
-  padding: 32px;
-  border-radius: 16px;
-  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
-  max-width: 450px;
-  width: 100%;
-  text-align: center;
+/* Custom Card Styling */
+.card {
+    border: none;
+    background-color: #212529; /* Slightly lighter than body for depth */
+    border-radius: 1rem;
 }
 
-h1 {
-  font-size: 2rem;
-  font-weight: bold;
-  color: #1e293b;
-  margin-top: 0;
-  margin-bottom: 8px;
-}
-p {
-  color: #64748b;
-  margin-top: 0;
-  margin-bottom: 24px;
-}
-
-/* --- Menu Page Styles --- */
-#settings-form {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-.form-group {
-  text-align: left;
-}
-.form-group label {
-  display: block;
-  font-weight: 600;
-  color: #334155;
-  margin-bottom: 8px;
-}
-.form-group select,
-.form-group input {
-  width: 100%;
-  padding: 12px;
-  border-radius: 8px;
-  border: 1px solid #cbd5e1;
-  font-size: 1rem;
-  box-sizing: border-box;
-}
-#start-button {
-  background-color: #4f46e5;
-  color: white;
-  padding: 14px;
-  border-radius: 8px;
-  font-weight: 600;
-  border: none;
-  cursor: pointer;
-  font-size: 1rem;
-  transition: background-color 0.3s;
-}
-#start-button:hover {
-  background-color: #4338ca;
-}
-
-/* --- Quiz Page Styles --- */
-#quiz-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-}
-#question-counter {
-  color: #1e293b;
-  font-size: 1.1rem;
-  margin: 0;
-}
-#exit-link {
-  color: #64748b;
-  text-decoration: none;
-  font-size: 0.9rem;
-}
+/* Hiragana/Katakana Character Display */
 #hiragana-display-container {
-  margin-bottom: 16px;
-  height: 160px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #f8fafc;
-  border-radius: 8px;
-  border: 1px solid #e2e8f0;
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.1);
 }
+
 #hiragana-char {
-  font-size: 7rem;
-  font-weight: 600;
-  color: #1e293b;
-  line-height: 1;
-}
-#options-container {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 16px;
-  margin-bottom: 24px;
-}
-#options-container button {
-  background-color: #e2e8f0;
-  color: #334155;
-  padding: 16px;
-  border: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: background-color 0.3s, color 0.3s;
-}
-#options-container button:hover:not(:disabled) {
-  background-color: #cbd5e1;
-}
-#options-container button:disabled {
-  cursor: not-allowed;
-}
-#result-container {
-  height: 70px;
-  margin: 20px;
-}
-#result-text {
-  font-size: 1.25rem;
-  font-weight: 600;
-}
-#next-button {
-  margin-top: 16px;
-  background-color: #16a34a;
-  color: white;
-  width: 100%;
-  padding: 12px;
-  border-radius: 8px;
-  font-weight: 600;
-  border: none;
-  cursor: pointer;
-  transition: background-color 0.3s;
-}
-#next-button:hover {
-  background-color: #15803d;
+    font-size: 6rem;
+    font-weight: 600;
+    color: #dee2e6;
+    line-height: 1;
 }
 
-/* --- Result Page Styles --- */
-#score-display {
-  background-color: #f0fdf4;
-  border: 1px solid #bbf7d0;
-  border-radius: 12px;
-  padding: 20px;
-  margin-bottom: 16px;
-}
-#score-display p {
-  margin: 0;
-  color: #166534;
-}
-#final-score {
-  font-size: 4rem;
-  color: #16a34a;
-  margin: 10px 0;
-  line-height: 1;
-}
-#summary-display p {
-  font-size: 1.1rem;
-  color: #334155;
-}
-.action-buttons {
-  margin-top: 30px;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-#retry-button,
-.button-link {
-  background-color: #4f46e5;
-  color: white;
-  padding: 14px;
-  border-radius: 8px;
-  font-weight: 600;
-  border: none;
-  cursor: pointer;
-  font-size: 1rem;
-  transition: background-color 0.3s;
-  text-decoration: none;
-}
-#retry-button:hover,
-.button-link:hover {
-  background-color: #4338ca;
-}
-.button-link {
-  background-color: #e2e8f0;
-  color: #334155;
-}
-.button-link:hover {
-  background-color: #cbd5e1;
+/* Custom Answer Buttons */
+#options-container .btn {
+    padding: 0.75rem;
+    font-size: 1rem;
+    font-weight: 600;
 }
 
-/* Utility Classes */
-.hidden {
-  display: none;
+/* Results Page Score Circle */
+.score-circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: conic-gradient(#0d6efd 0%, #0d6efd 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    border: 5px solid #343a40;
 }
-.correct {
-  background-color: #22c55e !important;
-  color: white !important;
+
+.score-circle span {
+    font-size: 3rem;
+    font-weight: 700;
+    color: white;
 }
-.incorrect-choice {
-  background-color: #ef4444 !important;
-  color: white !important;
+
+/* --- Feedback Colors & Animations --- */
+.btn-correct {
+    background-color: #198754 !important;
+    border-color: #198754 !important;
+    color: white !important;
 }
-.faded {
-  background-color: #d1d5db !important;
-  opacity: 0.7;
+
+.btn-incorrect {
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+    color: white !important;
 }
-.text-correct {
-  color: #16a34a;
+
+.btn-faded {
+    opacity: 0.5;
 }
-.text-incorrect {
-  color: #dc2626;
+
+.animate-fade-in {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+/* Tambahkan ini di style.css */
+#timer-display {
+    color: var(--bs-warning);
 }
