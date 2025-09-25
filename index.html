@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Kuis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="quiz-container">
+        <h1>Kuis Kana 🎌</h1>
+        <p>Pilih jenis kuis dan jumlah soal yang kamu inginkan.</p>
+        
+        <form id="settings-form">
+            <div class="form-group">
+                <label for="quiz-type">Jenis Kuis:</label>
+                <select id="quiz-type" name="quiz-type">
+                    <option value="hiragana">Hiragana</option>
+                    <option value="katakana" disabled>Katakana (Segera Hadir)</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="num-questions">Jumlah Soal:</label>
+                <input type="number" id="num-questions" name="num-questions" value="10" min="5" max="46">
+            </div>
+
+            <button type="submit" id="start-button">Mulai Kuis!</button>
+        </form>
+    </div>
+
+    <script>
+        document.getElementById('settings-form').addEventListener('submit', function(e) {
+            e.preventDefault(); // Mencegah form mengirim data ke server
+
+            const quizType = document.getElementById('quiz-type').value;
+            const numQuestions = document.getElementById('num-questions').value;
+
+            // Simpan pengaturan ke localStorage
+            localStorage.setItem('quizType', quizType);
+            localStorage.setItem('numQuestions', numQuestions);
+
+            // Arahkan ke halaman kuis
+            window.location.href = 'quiz.html';
+        });
+    </script>
+</body>
+</html>

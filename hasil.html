@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hasil Kuis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="quiz-container">
+        <h1>Hasil Kuis ✨</h1>
+        
+        <div id="score-display">
+            <p>Skor Akhir Kamu:</p>
+            <h2 id="final-score">100</h2>
+        </div>
+
+        <div id="summary-display">
+            <p id="score-summary">Kamu benar 10 dari 10 soal!</p>
+        </div>
+
+        <div class="action-buttons">
+            <button id="retry-button">Ulangi Kuis</button>
+            <a href="index.html" class="button-link">Kembali ke Menu</a>
+        </div>
+    </div>
+
+    <script>
+        // Ambil data dari localStorage
+        const finalScore = localStorage.getItem('finalScore');
+        const correctAnswers = localStorage.getItem('correctAnswers');
+        const totalQuestions = localStorage.getItem('totalQuestions');
+
+        // Tampilkan data
+        document.getElementById('final-score').textContent = finalScore;
+        document.getElementById('score-summary').textContent = `Kamu benar ${correctAnswers} dari ${totalQuestions} soal!`;
+
+        // Event listener untuk tombol ulangi
+        document.getElementById('retry-button').addEventListener('click', () => {
+            // Langsung arahkan kembali ke halaman kuis
+            window.location.href = 'quiz.html';
+        });
+    </script>
+</body>
+</html>
