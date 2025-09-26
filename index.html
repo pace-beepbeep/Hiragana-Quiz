@@ -1,94 +1,117 @@
 <!DOCTYPE html>
 <html lang="en" data-bs-theme="dark">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menu Kuis Modern</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hiragana Master - Belajar Hiragana</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
+      <div class="container">
+        <a class="navbar-brand fw-bold" href="#">🎌 Hiragana Master</a>
+      </div>
+    </nav>
 
-    <div class="container d-flex justify-content-center align-items-center vh-100">
-        <div class="card text-center shadow-lg animate-fade-in" style="width: 25rem;">
-            <div class="card-body p-5">
-                <h1 class="card-title mb-3">Hiragana Quiz 🎌</h1>
-                <p id="mode-description" class="card-subtitle mb-4 text-body-secondary">
-                    <b>Mode Klasik</b> adalah mode santai tanpa batas waktu. Kamu bisa mengatur sendiri jumlah soalnya.
-                </p>
-                
-                <form id="settings-form">
-                    <div class="form-floating mb-3">
-                        <select class="form-select" id="game-mode" name="game-mode">
-                            <option value="classic">Klasik</option>
-                            <option value="time-attack">Time Attack</option>
-                        </select>
-                        <label for="game-mode">Mode Permainan</label>
-                    </div>
-
-                    <div class="form-floating mb-3">
-                        <select class="form-select" id="difficulty" name="difficulty">
-                            <option value="easy">Mudah (2 Pilihan)</option>
-                            <option value="medium" selected>Normal (4 Pilihan)</option>
-                            <option value="hard">Sulit (6 Pilihan)</option>
-                        </select>
-                        <label for="difficulty">Tingkat Kesulitan</label>
-                    </div>
-                    
-                    <div id="questions-container" class="form-floating mb-4">
-                        </div>
-
-                    <div class="d-grid">
-                         <button type="submit" id="start-button" class="btn btn-primary btn-lg">Mulai Kuis!</button>
-                    </div>
-                </form>
-            </div>
+    <div class="container col-xxl-8 px-4 py-5 text-center text-lg-start">
+      <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+        <div class="col-10 col-sm-8 col-lg-6 mx-auto">
+          <div class="display-1 fw-bold hiragana-hero-char">あ</div>
         </div>
+        <div class="col-lg-6">
+          <h1 class="display-5 fw-bold lh-1 mb-3">
+            Kuasai Hiragana dengan Mudah dan Menyenangkan
+          </h1>
+          <p class="lead">
+            Pilih mode belajar yang kamu suka. Mulai dari kuis interaktif,
+            tantangan melengkapi kalimat, hingga kamus lengkap untuk referensi
+            cepat.
+          </p>
+          <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+            <a href="#features" class="btn btn-primary btn-lg px-4 me-md-2"
+              >Mulai Belajar</a
+            >
+          </div>
+        </div>
+      </div>
     </div>
 
-    <script>
-        const gameModeSelect = document.getElementById('game-mode');
-        const questionsContainer = document.getElementById('questions-container');
-        const descriptionEl = document.getElementById('mode-description');
+    <div class="container px-4 py-5" id="features">
+      <h2 class="pb-2 border-bottom text-center">Pilih Mode Belajar</h2>
+      <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+        <div class="col d-flex align-items-start">
+          <div
+            class="icon-square text-body-emphasis bg-body-secondary d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3"
+          >
+            <i class="bi bi-patch-question-fill text-primary"></i>
+          </div>
+          <div>
+            <h3 class="fs-2">Kuis Tebak Hiragana</h3>
+            <p>
+              Uji pengetahuanmu dengan menebak romaji dari karakter hiragana
+              yang muncul. Atur tingkat kesulitan dan jumlah soal sesuai
+              kemampuanmu.
+            </p>
+            <a href="quiz_options.html" class="btn btn-outline-primary">
+              Mulai Kuis
+            </a>
+          </div>
+        </div>
 
-        const classicDescription = "<b>Mode Klasik</b> adalah mode santai tanpa batas waktu. Kamu bisa mengatur sendiri jumlah soalnya.";
-        const timeAttackDescription = "<b>Mode Time Attack</b> menantangmu menyelesaikan soal sebanyak mungkin sebelum waktu habis. Waktu bergantung pada tingkat kesulitan.";
+        <div class="col d-flex align-items-start">
+          <div
+            class="icon-square text-body-emphasis bg-body-secondary d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3"
+          >
+            <i class="bi bi-chat-left-text-fill text-info"></i>
+          </div>
+          <div>
+            <h3 class="fs-2">Lengkapi Kalimat</h3>
+            <p>
+              Tantang dirimu untuk melengkapi kalimat rumpang dengan partikel
+              hiragana yang tepat. Asah pemahaman kontekstualmu di sini.
+            </p>
+            <a href="kalimat_options.html" class="btn btn-outline-info">
+              Mulai Kuis
+            </a>
+          </div>
+        </div>
 
-        const classicInput = `
-            <input type="number" class="form-control" id="num-questions" name="num-questions" value="10" min="5" max="46">
-            <label for="num-questions">Jumlah Soal</label>
-        `;
-        const timeAttackInput = `
-            <select class="form-select" id="num-questions" name="num-questions">
-                <option value="10">Cepat (10 Soal)</option>
-                <option value="20">Sedang (20 Soal)</option>
-                <option value="46">Maraton (46 Soal)</option>
-            </select>
-            <label for="num-questions">Jumlah Soal</label>
-        `;
+        <div class="col d-flex align-items-start">
+          <div
+            class="icon-square text-body-emphasis bg-body-secondary d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3"
+          >
+            <i class="bi bi-book-half text-secondary"></i>
+          </div>
+          <div>
+            <h3 class="fs-2">Kamus Hiragana</h3>
+            <p>
+              Butuh referensi cepat? Buka kamus untuk melihat daftar lengkap
+              semua karakter hiragana dasar dan turunan beserta romajinya.
+            </p>
+            <a href="kamus.html" class="btn btn-outline-secondary">
+              Buka Kamus
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
 
-        function updateForm() {
-            if (gameModeSelect.value === 'time-attack') {
-                questionsContainer.innerHTML = timeAttackInput;
-                descriptionEl.innerHTML = timeAttackDescription;
-            } else {
-                questionsContainer.innerHTML = classicInput;
-                descriptionEl.innerHTML = classicDescription;
-            }
-        }
-        
-        // Initial setup
-        updateForm();
-        gameModeSelect.addEventListener('change', updateForm);
-
-        document.getElementById('settings-form').addEventListener('submit', function(e) {
-            e.preventDefault();
-            localStorage.setItem('gameMode', gameModeSelect.value);
-            localStorage.setItem('difficulty', document.getElementById('difficulty').value);
-            localStorage.setItem('numQuestions', document.getElementById('num-questions').value);
-            localStorage.setItem('quizType', 'hiragana');
-            window.location.href = 'quiz.html';
-        });
-    </script>
-</body>
-</html> 
+    <div class="container">
+      <footer
+        class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top"
+      >
+        <p class="col-md-4 mb-0 text-body-secondary">
+          &copy; 2025 Hiragana Master Made By Ray
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

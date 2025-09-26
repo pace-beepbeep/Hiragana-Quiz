@@ -32,7 +32,8 @@
         const finalScore = localStorage.getItem('finalScore');
         const correctAnswers = localStorage.getItem('correctAnswers');
         const totalQuestions = localStorage.getItem('totalQuestions');
-        const timesUp = localStorage.getItem('timesUp'); // Cek apakah waktu habis
+        const timesUp = localStorage.getItem('timesUp');
+        const quizType = localStorage.getItem('quizType'); // Ambil jenis kuis
 
         if (timesUp === 'true') {
             document.getElementById('result-title').innerHTML = "Waktu Habis! ⌛";
@@ -42,8 +43,14 @@
         document.getElementById('score-summary').textContent = `Kamu benar ${correctAnswers} dari ${totalQuestions} soal!`;
 
         document.getElementById('retry-button').addEventListener('click', () => {
-            localStorage.removeItem('timesUp'); // Hapus status waktu habis
-            window.location.href = 'quiz.html';
+            localStorage.removeItem('timesUp');
+            
+            // Logika baru untuk mengarahkan ke halaman opsi yang benar
+            if (quizType === 'kalimat') {
+                window.location.href = 'kalimat_options.html';
+            } else { // Default ke kuis hiragana
+                window.location.href = 'quiz_options.html';
+            }
         });
     </script>
 </body>

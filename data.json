@@ -1,0 +1,2215 @@
+{
+  "basic": [
+    { "hiragana": "あ", "romaji": "a" },
+    { "hiragana": "い", "romaji": "i" },
+    { "hiragana": "う", "romaji": "u" },
+    { "hiragana": "え", "romaji": "e" },
+    { "hiragana": "お", "romaji": "o" },
+    { "hiragana": "か", "romaji": "ka" },
+    { "hiragana": "き", "romaji": "ki" },
+    { "hiragana": "く", "romaji": "ku" },
+    { "hiragana": "け", "romaji": "ke" },
+    { "hiragana": "こ", "romaji": "ko" },
+    { "hiragana": "さ", "romaji": "sa" },
+    { "hiragana": "し", "romaji": "shi" },
+    { "hiragana": "す", "romaji": "su" },
+    { "hiragana": "せ", "romaji": "se" },
+    { "hiragana": "そ", "romaji": "so" },
+    { "hiragana": "た", "romaji": "ta" },
+    { "hiragana": "ち", "romaji": "chi" },
+    { "hiragana": "つ", "romaji": "tsu" },
+    { "hiragana": "て", "romaji": "te" },
+    { "hiragana": "と", "romaji": "to" },
+    { "hiragana": "な", "romaji": "na" },
+    { "hiragana": "に", "romaji": "ni" },
+    { "hiragana": "ぬ", "romaji": "nu" },
+    { "hiragana": "ね", "romaji": "ne" },
+    { "hiragana": "の", "romaji": "no" },
+    { "hiragana": "は", "romaji": "ha" },
+    { "hiragana": "ひ", "romaji": "hi" },
+    { "hiragana": "ふ", "romaji": "fu" },
+    { "hiragana": "へ", "romaji": "he" },
+    { "hiragana": "ほ", "romaji": "ho" },
+    { "hiragana": "ま", "romaji": "ma" },
+    { "hiragana": "み", "romaji": "mi" },
+    { "hiragana": "む", "romaji": "mu" },
+    { "hiragana": "め", "romaji": "me" },
+    { "hiragana": "も", "romaji": "mo" },
+    { "hiragana": "や", "romaji": "ya" },
+    { "hiragana": "ゆ", "romaji": "yu" },
+    { "hiragana": "よ", "romaji": "yo" },
+    { "hiragana": "ら", "romaji": "ra" },
+    { "hiragana": "り", "romaji": "ri" },
+    { "hiragana": "る", "romaji": "ru" },
+    { "hiragana": "れ", "romaji": "re" },
+    { "hiragana": "ろ", "romaji": "ro" },
+    { "hiragana": "わ", "romaji": "wa" },
+    { "hiragana": "を", "romaji": "wo" },
+    { "hiragana": "ん", "romaji": "n" }
+  ],
+  "advanced": [
+    { "hiragana": "が", "romaji": "ga" },
+    { "hiragana": "ぎ", "romaji": "gi" },
+    { "hiragana": "ぐ", "romaji": "gu" },
+    { "hiragana": "げ", "romaji": "ge" },
+    { "hiragana": "ご", "romaji": "go" },
+    { "hiragana": "ざ", "romaji": "za" },
+    { "hiragana": "じ", "romaji": "ji" },
+    { "hiragana": "ず", "romaji": "zu" },
+    { "hiragana": "ぜ", "romaji": "ze" },
+    { "hiragana": "ぞ", "romaji": "zo" },
+    { "hiragana": "だ", "romaji": "da" },
+    { "hiragana": "ぢ", "romaji": "ji" },
+    { "hiragana": "づ", "romaji": "zu" },
+    { "hiragana": "で", "romaji": "de" },
+    { "hiragana": "ど", "romaji": "do" },
+    { "hiragana": "ば", "romaji": "ba" },
+    { "hiragana": "び", "romaji": "bi" },
+    { "hiragana": "ぶ", "romaji": "bu" },
+    { "hiragana": "べ", "romaji": "be" },
+    { "hiragana": "ぼ", "romaji": "bo" },
+    { "hiragana": "ぱ", "romaji": "pa" },
+    { "hiragana": "ぴ", "romaji": "pi" },
+    { "hiragana": "ぷ", "romaji": "pu" },
+    { "hiragana": "ぺ", "romaji": "pe" },
+    { "hiragana": "ぽ", "romaji": "po" },
+    { "hiragana": "きゃ", "romaji": "kya" },
+    { "hiragana": "きゅ", "romaji": "kyu" },
+    { "hiragana": "きょ", "romaji": "kyo" },
+    { "hiragana": "ぎゃ", "romaji": "gya" },
+    { "hiragana": "ぎゅ", "romaji": "gyu" },
+    { "hiragana": "ぎょ", "romaji": "gyo" },
+    { "hiragana": "にゃ", "romaji": "nya" },
+    { "hiragana": "にゅ", "romaji": "nyu" },
+    { "hiragana": "にょ", "romaji": "nyo" },
+    { "hiragana": "ひゃ", "romaji": "hya" },
+    { "hiragana": "ひゅ", "romaji": "hyu" },
+    { "hiragana": "ひょ", "romaji": "hyo" },
+    { "hiragana": "みゃ", "romaji": "mya" },
+    { "hiragana": "みゅ", "romaji": "myu" },
+    { "hiragana": "みょ", "romaji": "myo" },
+    { "hiragana": "りゃ", "romaji": "rya" },
+    { "hiragana": "りゅ", "romaji": "ryu" },
+    { "hiragana": "りょ", "romaji": "ryo" }
+  ],
+  "particles": [
+    { "hiragana": "は", "romaji": "wa" },
+    { "hiragana": "を", "romaji": "o" },
+    { "hiragana": "に", "romaji": "ni" },
+    { "hiragana": "へ", "romaji": "e" },
+    { "hiragana": "が", "romaji": "ga" },
+    { "hiragana": "で", "romaji": "de" },
+    { "hiragana": "と", "romaji": "to" },
+    { "hiragana": "も", "romaji": "mo" },
+    { "hiragana": "か", "romaji": "ka" },
+    { "hiragana": "の", "romaji": "no" }
+  ],
+  "sentenceQuestions": {
+    "easy": [
+      {
+        "sentence": "わたし__がくせいです。",
+        "romaji": "watashi __ gakusei desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Saya adalah seorang murid."
+      },
+      {
+        "sentence": "これ__ほんです。",
+        "romaji": "kore __ hon desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Ini adalah buku."
+      },
+      {
+        "sentence": "ごはん__たべます。",
+        "romaji": "gohan __ tabemasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya makan nasi."
+      },
+      {
+        "sentence": "がっこう__いきます。",
+        "romaji": "gakkou __ ikimasu.",
+        "blank": ["へ"],
+        "answer": ["e"],
+        "arti": "Saya pergi ke sekolah."
+      },
+      {
+        "sentence": "ペン__かきます。",
+        "romaji": "pen __ kakimasu.",
+        "blank": ["で"],
+        "answer": ["de"],
+        "arti": "Saya menulis dengan pulpen."
+      },
+      {
+        "sentence": "みず__のみます。",
+        "romaji": "mizu __ nomimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya minum air."
+      },
+      {
+        "sentence": "にほんご__べんきょうします。",
+        "romaji": "nihongo __ benkyou shimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya belajar bahasa Jepang."
+      },
+      {
+        "sentence": "ともだち__はなします。",
+        "romaji": "tomodachi __ hanashimasu.",
+        "blank": ["と"],
+        "answer": ["to"],
+        "arti": "Saya berbicara dengan teman."
+      },
+      {
+        "sentence": "いぬ__います。",
+        "romaji": "inu __ imasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada seekor anjing."
+      },
+      {
+        "sentence": "くるま__あります。",
+        "romaji": "kuruma __ arimasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada sebuah mobil."
+      },
+      {
+        "sentence": "わたし__がくせいです。",
+        "romaji": "watashi __ gakusei desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Saya adalah seorang murid."
+      },
+      {
+        "sentence": "これ__ほんです。",
+        "romaji": "kore __ hon desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Ini adalah buku."
+      },
+      {
+        "sentence": "ごはん__たべます。",
+        "romaji": "gohan __ tabemasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya makan nasi."
+      },
+      {
+        "sentence": "がっこう__いきます。",
+        "romaji": "gakkou __ ikimasu.",
+        "blank": ["へ"],
+        "answer": ["e"],
+        "arti": "Saya pergi ke sekolah."
+      },
+      {
+        "sentence": "ペン__かきます。",
+        "romaji": "pen __ kakimasu.",
+        "blank": ["で"],
+        "answer": ["de"],
+        "arti": "Saya menulis dengan pulpen."
+      },
+      {
+        "sentence": "みず__のみます。",
+        "romaji": "mizu __ nomimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya minum air."
+      },
+      {
+        "sentence": "にほんご__べんきょうします。",
+        "romaji": "nihongo __ benkyou shimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya belajar bahasa Jepang."
+      },
+      {
+        "sentence": "ともだち__はなします。",
+        "romaji": "tomodachi __ hanashimasu.",
+        "blank": ["と"],
+        "answer": ["to"],
+        "arti": "Saya berbicara dengan teman."
+      },
+      {
+        "sentence": "いぬ__います。",
+        "romaji": "inu __ imasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada seekor anjing."
+      },
+      {
+        "sentence": "くるま__あります。",
+        "romaji": "kuruma __ arimasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada sebuah mobil."
+      },
+      {
+        "sentence": "わたし__がくせいです。",
+        "romaji": "watashi __ gakusei desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Saya adalah seorang murid."
+      },
+      {
+        "sentence": "これ__ほんです。",
+        "romaji": "kore __ hon desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Ini adalah buku."
+      },
+      {
+        "sentence": "ごはん__たべます。",
+        "romaji": "gohan __ tabemasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya makan nasi."
+      },
+      {
+        "sentence": "がっこう__いきます。",
+        "romaji": "gakkou __ ikimasu.",
+        "blank": ["へ"],
+        "answer": ["e"],
+        "arti": "Saya pergi ke sekolah."
+      },
+      {
+        "sentence": "ペン__かきます。",
+        "romaji": "pen __ kakimasu.",
+        "blank": ["で"],
+        "answer": ["de"],
+        "arti": "Saya menulis dengan pulpen."
+      },
+      {
+        "sentence": "みず__のみます。",
+        "romaji": "mizu __ nomimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya minum air."
+      },
+      {
+        "sentence": "にほんご__べんきょうします。",
+        "romaji": "nihongo __ benkyou shimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya belajar bahasa Jepang."
+      },
+      {
+        "sentence": "ともだち__はなします。",
+        "romaji": "tomodachi __ hanashimasu.",
+        "blank": ["と"],
+        "answer": ["to"],
+        "arti": "Saya berbicara dengan teman."
+      },
+      {
+        "sentence": "いぬ__います。",
+        "romaji": "inu __ imasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada seekor anjing."
+      },
+      {
+        "sentence": "くるま__あります。",
+        "romaji": "kuruma __ arimasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada sebuah mobil."
+      },
+      {
+        "sentence": "わたし__がくせいです。",
+        "romaji": "watashi __ gakusei desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Saya adalah seorang murid."
+      },
+      {
+        "sentence": "これ__ほんです。",
+        "romaji": "kore __ hon desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Ini adalah buku."
+      },
+      {
+        "sentence": "ごはん__たべます。",
+        "romaji": "gohan __ tabemasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya makan nasi."
+      },
+      {
+        "sentence": "がっこう__いきます。",
+        "romaji": "gakkou __ ikimasu.",
+        "blank": ["へ"],
+        "answer": ["e"],
+        "arti": "Saya pergi ke sekolah."
+      },
+      {
+        "sentence": "ペン__かきます。",
+        "romaji": "pen __ kakimasu.",
+        "blank": ["で"],
+        "answer": ["de"],
+        "arti": "Saya menulis dengan pulpen."
+      },
+      {
+        "sentence": "みず__のみます。",
+        "romaji": "mizu __ nomimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya minum air."
+      },
+      {
+        "sentence": "にほんご__べんきょうします。",
+        "romaji": "nihongo __ benkyou shimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya belajar bahasa Jepang."
+      },
+      {
+        "sentence": "ともだち__はなします。",
+        "romaji": "tomodachi __ hanashimasu.",
+        "blank": ["と"],
+        "answer": ["to"],
+        "arti": "Saya berbicara dengan teman."
+      },
+      {
+        "sentence": "いぬ__います。",
+        "romaji": "inu __ imasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada seekor anjing."
+      },
+      {
+        "sentence": "くるま__あります。",
+        "romaji": "kuruma __ arimasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada sebuah mobil."
+      },
+      {
+        "sentence": "わたし__がくせいです。",
+        "romaji": "watashi __ gakusei desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Saya adalah seorang murid."
+      },
+      {
+        "sentence": "これ__ほんです。",
+        "romaji": "kore __ hon desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Ini adalah buku."
+      },
+      {
+        "sentence": "ごはん__たべます。",
+        "romaji": "gohan __ tabemasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya makan nasi."
+      },
+      {
+        "sentence": "がっこう__いきます。",
+        "romaji": "gakkou __ ikimasu.",
+        "blank": ["へ"],
+        "answer": ["e"],
+        "arti": "Saya pergi ke sekolah."
+      },
+      {
+        "sentence": "ペン__かきます。",
+        "romaji": "pen __ kakimasu.",
+        "blank": ["で"],
+        "answer": ["de"],
+        "arti": "Saya menulis dengan pulpen."
+      },
+      {
+        "sentence": "みず__のみます。",
+        "romaji": "mizu __ nomimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya minum air."
+      },
+      {
+        "sentence": "にほんご__べんきょうします。",
+        "romaji": "nihongo __ benkyou shimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya belajar bahasa Jepang."
+      },
+      {
+        "sentence": "ともだち__はなします。",
+        "romaji": "tomodachi __ hanashimasu.",
+        "blank": ["と"],
+        "answer": ["to"],
+        "arti": "Saya berbicara dengan teman."
+      },
+      {
+        "sentence": "いぬ__います。",
+        "romaji": "inu __ imasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada seekor anjing."
+      },
+      {
+        "sentence": "くるま__あります。",
+        "romaji": "kuruma __ arimasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada sebuah mobil."
+      },
+      {
+        "sentence": "わたし__がくせいです。",
+        "romaji": "watashi __ gakusei desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Saya adalah seorang murid."
+      },
+      {
+        "sentence": "これ__ほんです。",
+        "romaji": "kore __ hon desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Ini adalah buku."
+      },
+      {
+        "sentence": "ごはん__たべます。",
+        "romaji": "gohan __ tabemasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya makan nasi."
+      },
+      {
+        "sentence": "がっこう__いきます。",
+        "romaji": "gakkou __ ikimasu.",
+        "blank": ["へ"],
+        "answer": ["e"],
+        "arti": "Saya pergi ke sekolah."
+      },
+      {
+        "sentence": "ペン__かきます。",
+        "romaji": "pen __ kakimasu.",
+        "blank": ["で"],
+        "answer": ["de"],
+        "arti": "Saya menulis dengan pulpen."
+      },
+      {
+        "sentence": "みず__のみます。",
+        "romaji": "mizu __ nomimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya minum air."
+      },
+      {
+        "sentence": "にほんご__べんきょうします。",
+        "romaji": "nihongo __ benkyou shimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya belajar bahasa Jepang."
+      },
+      {
+        "sentence": "ともだち__はなします。",
+        "romaji": "tomodachi __ hanashimasu.",
+        "blank": ["と"],
+        "answer": ["to"],
+        "arti": "Saya berbicara dengan teman."
+      },
+      {
+        "sentence": "いぬ__います。",
+        "romaji": "inu __ imasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada seekor anjing."
+      },
+      {
+        "sentence": "くるま__あります。",
+        "romaji": "kuruma __ arimasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada sebuah mobil."
+      },
+      {
+        "sentence": "わたし__がくせいです。",
+        "romaji": "watashi __ gakusei desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Saya adalah seorang murid."
+      },
+      {
+        "sentence": "これ__ほんです。",
+        "romaji": "kore __ hon desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Ini adalah buku."
+      },
+      {
+        "sentence": "ごはん__たべます。",
+        "romaji": "gohan __ tabemasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya makan nasi."
+      },
+      {
+        "sentence": "がっこう__いきます。",
+        "romaji": "gakkou __ ikimasu.",
+        "blank": ["へ"],
+        "answer": ["e"],
+        "arti": "Saya pergi ke sekolah."
+      },
+      {
+        "sentence": "ペン__かきます。",
+        "romaji": "pen __ kakimasu.",
+        "blank": ["で"],
+        "answer": ["de"],
+        "arti": "Saya menulis dengan pulpen."
+      },
+      {
+        "sentence": "みず__のみます。",
+        "romaji": "mizu __ nomimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya minum air."
+      },
+      {
+        "sentence": "にほんご__べんきょうします。",
+        "romaji": "nihongo __ benkyou shimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya belajar bahasa Jepang."
+      },
+      {
+        "sentence": "ともだち__はなします。",
+        "romaji": "tomodachi __ hanashimasu.",
+        "blank": ["と"],
+        "answer": ["to"],
+        "arti": "Saya berbicara dengan teman."
+      },
+      {
+        "sentence": "いぬ__います。",
+        "romaji": "inu __ imasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada seekor anjing."
+      },
+      {
+        "sentence": "くるま__あります。",
+        "romaji": "kuruma __ arimasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada sebuah mobil."
+      },
+      {
+        "sentence": "わたし__がくせいです。",
+        "romaji": "watashi __ gakusei desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Saya adalah seorang murid."
+      },
+      {
+        "sentence": "これ__ほんです。",
+        "romaji": "kore __ hon desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Ini adalah buku."
+      },
+      {
+        "sentence": "ごはん__たべます。",
+        "romaji": "gohan __ tabemasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya makan nasi."
+      },
+      {
+        "sentence": "がっこう__いきます。",
+        "romaji": "gakkou __ ikimasu.",
+        "blank": ["へ"],
+        "answer": ["e"],
+        "arti": "Saya pergi ke sekolah."
+      },
+      {
+        "sentence": "ペン__かきます。",
+        "romaji": "pen __ kakimasu.",
+        "blank": ["で"],
+        "answer": ["de"],
+        "arti": "Saya menulis dengan pulpen."
+      },
+      {
+        "sentence": "みず__のみます。",
+        "romaji": "mizu __ nomimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya minum air."
+      },
+      {
+        "sentence": "にほんご__べんきょうします。",
+        "romaji": "nihongo __ benkyou shimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya belajar bahasa Jepang."
+      },
+      {
+        "sentence": "ともだち__はなします。",
+        "romaji": "tomodachi __ hanashimasu.",
+        "blank": ["と"],
+        "answer": ["to"],
+        "arti": "Saya berbicara dengan teman."
+      },
+      {
+        "sentence": "いぬ__います。",
+        "romaji": "inu __ imasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada seekor anjing."
+      },
+      {
+        "sentence": "くるま__あります。",
+        "romaji": "kuruma __ arimasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada sebuah mobil."
+      },
+      {
+        "sentence": "わたし__がくせいです。",
+        "romaji": "watashi __ gakusei desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Saya adalah seorang murid."
+      },
+      {
+        "sentence": "これ__ほんです。",
+        "romaji": "kore __ hon desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Ini adalah buku."
+      },
+      {
+        "sentence": "ごはん__たべます。",
+        "romaji": "gohan __ tabemasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya makan nasi."
+      },
+      {
+        "sentence": "がっこう__いきます。",
+        "romaji": "gakkou __ ikimasu.",
+        "blank": ["へ"],
+        "answer": ["e"],
+        "arti": "Saya pergi ke sekolah."
+      },
+      {
+        "sentence": "ペン__かきます。",
+        "romaji": "pen __ kakimasu.",
+        "blank": ["で"],
+        "answer": ["de"],
+        "arti": "Saya menulis dengan pulpen."
+      },
+      {
+        "sentence": "みず__のみます。",
+        "romaji": "mizu __ nomimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya minum air."
+      },
+      {
+        "sentence": "にほんご__べんきょうします。",
+        "romaji": "nihongo __ benkyou shimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya belajar bahasa Jepang."
+      },
+      {
+        "sentence": "ともだち__はなします。",
+        "romaji": "tomodachi __ hanashimasu.",
+        "blank": ["と"],
+        "answer": ["to"],
+        "arti": "Saya berbicara dengan teman."
+      },
+      {
+        "sentence": "いぬ__います。",
+        "romaji": "inu __ imasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada seekor anjing."
+      },
+      {
+        "sentence": "くるま__あります。",
+        "romaji": "kuruma __ arimasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada sebuah mobil."
+      },
+      {
+        "sentence": "わたし__がくせいです。",
+        "romaji": "watashi __ gakusei desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Saya adalah seorang murid."
+      },
+      {
+        "sentence": "これ__ほんです。",
+        "romaji": "kore __ hon desu.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Ini adalah buku."
+      },
+      {
+        "sentence": "ごはん__たべます。",
+        "romaji": "gohan __ tabemasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya makan nasi."
+      },
+      {
+        "sentence": "がっこう__いきます。",
+        "romaji": "gakkou __ ikimasu.",
+        "blank": ["へ"],
+        "answer": ["e"],
+        "arti": "Saya pergi ke sekolah."
+      },
+      {
+        "sentence": "ペン__かきます。",
+        "romaji": "pen __ kakimasu.",
+        "blank": ["で"],
+        "answer": ["de"],
+        "arti": "Saya menulis dengan pulpen."
+      },
+      {
+        "sentence": "みず__のみます。",
+        "romaji": "mizu __ nomimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya minum air."
+      },
+      {
+        "sentence": "にほんご__べんきょうします。",
+        "romaji": "nihongo __ benkyou shimasu.",
+        "blank": ["を"],
+        "answer": ["o"],
+        "arti": "Saya belajar bahasa Jepang."
+      },
+      {
+        "sentence": "ともだち__はなします。",
+        "romaji": "tomodachi __ hanashimasu.",
+        "blank": ["と"],
+        "answer": ["to"],
+        "arti": "Saya berbicara dengan teman."
+      },
+      {
+        "sentence": "いぬ__います。",
+        "romaji": "inu __ imasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada seekor anjing."
+      },
+      {
+        "sentence": "くるま__あります。",
+        "romaji": "kuruma __ arimasu.",
+        "blank": ["が"],
+        "answer": ["ga"],
+        "arti": "Ada sebuah mobil."
+      }
+    ],
+    "medium": [
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      },
+      {
+        "sentence": "ともだち__あいます。",
+        "romaji": "tomodachi __ aimasu.",
+        "blank": ["に"],
+        "answer": ["ni"],
+        "arti": "Saya bertemu dengan teman."
+      },
+      {
+        "sentence": "えき__あるいていきます。",
+        "romaji": "eki __ aruite ikimasu.",
+        "blank": ["まで"],
+        "answer": ["made"],
+        "arti": "Saya berjalan kaki sampai ke stasiun."
+      },
+      {
+        "sentence": "にほん__くるまはたかいです。",
+        "romaji": "nihon __ kuruma wa takai desu.",
+        "blank": ["の"],
+        "answer": ["no"],
+        "arti": "Mobil Jepang itu mahal."
+      },
+      {
+        "sentence": "わたし__かれ__えいがをみます。",
+        "romaji": "watashi __ kare __ eiga o mimasu.",
+        "blank": ["は", "と"],
+        "answer": ["wa", "to"],
+        "arti": "Saya menonton film dengan dia (laki-laki)."
+      },
+      {
+        "sentence": "きのう__あめでした。",
+        "romaji": "kinou __ ame deshita.",
+        "blank": ["は"],
+        "answer": ["wa"],
+        "arti": "Kemarin hujan."
+      }
+    ],
+    "hard": [
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      },
+      {
+        "sentence": "スーパー__やさい__かいます。",
+        "romaji": "suupaa __ yasai __ kaimasu.",
+        "blank": ["で", "を"],
+        "answer": ["de", "o"],
+        "arti": "Saya membeli sayuran di supermarket."
+      },
+      {
+        "sentence": "かれ__かのじょ__プレゼントをあげます。",
+        "romaji": "kare __ kanojo __ purezento o agemasu.",
+        "blank": ["は", "に"],
+        "answer": ["wa", "ni"],
+        "arti": "Dia (laki-laki) memberikan hadiah kepada dia (perempuan)."
+      },
+      {
+        "sentence": "にほんご__べんきょう__たのしいです。",
+        "romaji": "nihongo __ benkyou __ tanoshii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Belajar bahasa Jepang itu menyenangkan."
+      },
+      {
+        "sentence": "とうきょう__きょうと__しんかんせんでいきます。",
+        "romaji": "toukyou __ kyouto __ shinkansen de ikimasu.",
+        "blank": ["から", "まで"],
+        "answer": ["kara", "made"],
+        "arti": "Saya pergi dari Tokyo sampai Kyoto dengan Shinkansen."
+      },
+      {
+        "sentence": "このレストラン__りょうり__おいしいです。",
+        "romaji": "kono resutoran __ ryouri __ oishii desu.",
+        "blank": ["の", "は"],
+        "answer": ["no", "wa"],
+        "arti": "Masakan restoran ini enak."
+      }
+    ]
+  }
+}
